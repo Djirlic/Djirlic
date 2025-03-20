@@ -1,5 +1,9 @@
-<h1 align="left" id="djirlic-title">:wave: Hello there! I'm Manuel Djirlic</h1>
+<h1 align="left" id="djirlic-title">Hello there! I'm Manuel Djirlic <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <h3 align="left">I do Data Engineering & DataOps things</h3>
+
+<a href="#djirlic-title">
+  <img src="https://raw.githubusercontent.com/Djirlic/github-stats-transparent/output/generated/overview.svg" alt="djirlic" align="right" />
+</a>
 
 <p align="left">
   <a href="https://github.com/Djirlic/Djirlic">
@@ -13,12 +17,8 @@
   </a>
 </p>
 
-<a href="#djirlic-title">
-  <img src="https://raw.githubusercontent.com/Djirlic/github-stats-transparent/output/generated/overview.svg" alt="djirlic" align="right" />
-</a>
-
 - :office: &nbsp;I'm a freelance data engineer based in **Germany**
-- :speech_balloon: &nbsp;I like to talk about **Python**, **SQL**, **Airflow** and **data observability and monitoring**
+- :speech_balloon: &nbsp;I like to talk about **Python**, **SQL**, **Airflow** and **DataOps**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
