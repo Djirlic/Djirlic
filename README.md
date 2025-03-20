@@ -1,16 +1,114 @@
-## Hi there 👋
+<h1 align="left" id="djirlic-title">:wave: Hello there! I'm Manuel Djirlic</h1>
+<h3 align="left">I do Data Engineering & DataOps things</h3>
 
-<!--
-**Djirlic/Djirlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/Djirlic/Djirlic">
+    <img src="https://komarev.com/ghpvc/?username=djirlic" alt="page views" />
+  </a>
+  <a href="https://djirlic.com">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdjirlic.com">
+  </a>
+  <a href="https://github.com/Djirlic?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Djirlic?style=flat&logo=github">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<a href="#djirlic-title">
+  <img src="https://raw.githubusercontent.com/Djirlic/github-stats-transparent/output/generated/overview.svg" alt="djirlic" align="right" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :office: &nbsp;I'm a freelance data engineer based in **Germany**
+- :speech_balloon: &nbsp;I like to talk about **Python**, **SQL**, **Airflow** and **data observability and monitoring**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+<br>
+
+<h2 align="left" id="djirlic-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="150>
+      <a href="#djirlic-tech">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="150">
+      <a href="#djirlic-tech">
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="150">
+      <a href="#djirlic-tech">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="150">
+      <a href="#djirlic-tech" >
+        <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
+      </a>
+      <br>Airflow
+    </td>
+    <td align="center" width="150"> 
+      <a href="#djirlic-tech" >
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+      </a>
+      <br>Snowflake
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="150">
+      <a href="#djirlic-tech">
+        <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="Apache Spark" />
+      </a>
+      <br>Apache Spark
+    </td>
+    <td align="center" width="150">
+      <a href="#djirlic-tech" >
+        <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+      </a>
+      <br>dbt
+    </td>
+    <td align="center" width="150">
+      <a href="#djirlic-tech" >
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+      </a>
+      <br>Elasticsearch
+    </td>
+    <td align="center" width="150">
+      <a href="#djirlic-tech" >
+        <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+      </a>
+      <br>Kafka
+    </td>
+    <td align="center" width="150">
+      <a href="#djirlic-tech" >
+        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="#djirlic-tech" >
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="Databricks" />
+      </a>
+      <br>Databricks
+    </td>
+    <td align="center" width="150">
+      <a href="#djirlic-tech" >
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+  </tr>
+  
+</table>
+
+[linkedin]: https://www.linkedin.com/in/djirlic "Manuel Djirlic LinkedIn"
+[issues page]: https://github.com/Djirlic/Djirlic/issues "Djirlic/issues"
