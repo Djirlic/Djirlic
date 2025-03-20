@@ -17,10 +17,12 @@
   <img src="https://raw.githubusercontent.com/Djirlic/github-stats-transparent/output/generated/overview.svg" alt="djirlic" align="right" />
 </a>
 
-- :office: &nbsp;I'm a freelance data engineer based in **Germany**
-- :speech_balloon: &nbsp;I like to talk about **Python**, **SQL**, **Airflow** and **DataOps**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+<ul align="left">
+  <li>:office: &nbsp;I'm a freelance data engineer based in <b>Germany</b></li>
+  <li>:speech_balloon: &nbsp;I like to talk about <b>Python</b>, <b>SQL</b>, <b>Airflow</b> and <b>DataOps</b></li>
+  <li>:mailbox: &nbsp;Ask me anything on my <b><a href="https://github.com/Djirlic/Djirlic/issues" alt="Djirlic/issues">issues page</a></b></li>
+  <li>:computer: &nbsp;Connect with me on <b><a href="https://www.linkedin.com/in/djirlic" alt="Manuel Djirlic LinkedIn">LinkedIn</a></b></li>
+</ul>
 
 <br>
 <br>
