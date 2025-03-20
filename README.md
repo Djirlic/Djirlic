@@ -1,7 +1,7 @@
-<h1 align="left" id="djirlic-title">Hello there! I'm Manuel Djirlic <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
-<h3 align="left">I do Data Engineering & DataOps things</h3>
+<h1 id="djirlic-title">Hello there! I'm Manuel Djirlic <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<h3>I do Data Engineering & DataOps things</h3>
 
-<p align="left">
+<p>
   <a href="https://github.com/Djirlic/Djirlic">
     <img src="https://komarev.com/ghpvc/?username=djirlic" alt="page views" />
   </a>
@@ -13,19 +13,21 @@
   </a>
 </p>
 
-<a href="#djirlic-title">
-  <img src="https://raw.githubusercontent.com/Djirlic/github-stats-transparent/output/generated/overview.svg" alt="djirlic" align="right" />
-</a>
-
-<ul align="left">
+<ul>
   <li>:office: &nbsp;I'm a freelance data engineer based in <b>Germany</b></li>
   <li>:speech_balloon: &nbsp;I like to talk about <b>Python</b>, <b>SQL</b>, <b>Airflow</b> and <b>DataOps</b></li>
   <li>:mailbox: &nbsp;Ask me anything on my <b><a href="https://github.com/Djirlic/Djirlic/issues" alt="Djirlic/issues">issues page</a></b></li>
   <li>:computer: &nbsp;Connect with me on <b><a href="https://www.linkedin.com/in/djirlic" alt="Manuel Djirlic LinkedIn">LinkedIn</a></b></li>
 </ul>
 
-<br>
-<br>
+<p>
+  <a href="#djirlic-title">
+    <img src="https://raw.githubusercontent.com/Djirlic/github-stats-transparent/output/generated/overview.svg" alt="My GitHub stats." />
+  </a>
+  <a href="#djirlic-title">
+    <img src="https://raw.githubusercontent.com/Djirlic/github-stats-transparent/output/generated/languages.svg" alt="My most used languages." />
+  </a>
+</p>
 
 <h2 align="left" id="djirlic-tech">Favorite Tech</h2>
 
