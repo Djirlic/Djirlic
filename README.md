@@ -20,7 +20,7 @@
   <li>:computer: &nbsp;Connect with me on <b><a href="https://www.linkedin.com/in/djirlic" alt="Manuel Djirlic LinkedIn">LinkedIn</a></b></li>
 </ul>
 
-<h3>📝 Latest Blog Posts</h3>
+### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Unit Testing in Python: A Practical Guide for Data Engineers](https://medium.com/@djirlic/unit-testing-in-python-a-practical-guide-for-data-engineers-f83bf2268d8c)
 <!-- BLOG-POST-LIST:END -->
