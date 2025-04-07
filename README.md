@@ -22,7 +22,7 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Unit Testing in Python: A Practical Guide for Data Engineers](https://medium.com/@djirlic/unit-testing-in-python-a-practical-guide-for-data-engineers-f83bf2268d8c)
+- [Unit Testing in Python: A Practical Guide for Data Engineers](https://medium.com/@djirlic/unit-testing-in-python-a-practical-guide-for-data-engineers-f83bf2268d8c?source=rss-828f24d39b82------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p>
