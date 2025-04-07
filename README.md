@@ -20,6 +20,10 @@
   <li>:computer: &nbsp;Connect with me on <b><a href="https://www.linkedin.com/in/djirlic" alt="Manuel Djirlic LinkedIn">LinkedIn</a></b></li>
 </ul>
 
+<h3>📝 Latest Blog Posts</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p>
   <a href="#djirlic-title">
     <img src="https://raw.githubusercontent.com/Djirlic/github-stats-transparent/output/generated/overview.svg" alt="My GitHub stats." />
