@@ -22,6 +22,7 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From Code to Cloud: Your First AWS Lambda CI/CD Pipeline with GitHub Actions](https://medium.com/plumbersofdatascience/from-code-to-cloud-your-first-aws-lambda-ci-cd-pipeline-with-github-actions-91b48125fcfe?source=rss-828f24d39b82------2)
 - [Unit Testing in Python: A Practical Guide for Data Engineers](https://medium.com/@djirlic/unit-testing-in-python-a-practical-guide-for-data-engineers-f83bf2268d8c?source=rss-828f24d39b82------2)
 <!-- BLOG-POST-LIST:END -->
 
